@@ -1,6 +1,10 @@
 #include<bits/stdc++.h>
 using namespace std;
 
+// Given an array of ‘N’  positive integers, we need to return the maximum sum of the subsequence 
+// such that no two elements of the subsequence are adjacent elements in the array.
+
+
 // Recursive code
 /*
 f(ind, arr[]) {
