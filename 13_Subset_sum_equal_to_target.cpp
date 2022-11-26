@@ -68,7 +68,6 @@ int main()
 
 /*
 
-
 bool subsetSumToK(int n, int k, vector<int> &arr) {
     vector<vector<bool>> dp(n, vector<bool>(k+1, false));
 
